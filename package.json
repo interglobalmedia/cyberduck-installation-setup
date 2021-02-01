@@ -1,0 +1,23 @@
+{
+  "name": "cyberduck-installation-setup",
+  "version": "1.0.0",
+  "description": "How to install and set up Cyberduck Libre server and cloud storage browser for Mac",
+  "main": "index.js",
+  "scripts": {
+    "slides": "npx reveal-md cyberduck-installation-setup.md",
+    "customcss": "npx reveal-md cyberduck-installation-setup.md --css custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/cyberduck-installation-setup.md.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/cyberduck-installation-setup.md/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/cyberduck-installation-setup.md#readme",
+  "devDependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
