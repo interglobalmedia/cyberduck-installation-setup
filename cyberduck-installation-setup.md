@@ -81,6 +81,25 @@ Once you have ***connected*** with your ***remote server*** on `Namecheap`, ***c
 ---
 
 <section class="section">
+    <h2 class="sentence">Uploading your index.html file to your hosting server on Namecheap</h2>
+    
+Now that we have entered the public_html folder on our remote server on Namecheap, we need to upload our invaluable index.html file, which is the root file of our site. Without an index.html file, there can be no site!
+
+First we have to select the File tab in the Cyberduck navigation menu at the top of your computer screen, and next we have to select upload from the File dropdown. This will result in a modal that looks something like this:
+
+<div>
+    <img src="images/cyberduck_file_upload.png" alt="Uploading a file with Cyberduck">
+</div>
+
+Next, select the file you want to upload and after you have selected it. click on the Upload button.
+
+Now you should be able to see your index.html file residing in your public_html folder!
+
+</section>
+
+---
+
+<section class="section">
     <h2 class="sentence">Related Resources</h2>
 
 + [How do I upload my site?: Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/181/27/how-do-i-upload-my-site/#2)
